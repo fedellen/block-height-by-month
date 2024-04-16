@@ -1,0 +1,8 @@
+{
+    "name": "block-height-by-month",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Derek Sonnenberg",
+    "license": "MIT",
+    "module": "esm"
+}
